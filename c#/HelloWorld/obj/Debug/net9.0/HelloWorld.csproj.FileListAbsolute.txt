@@ -1,0 +1,14 @@
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll

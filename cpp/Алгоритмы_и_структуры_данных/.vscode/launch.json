@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [{
+    "name": "Run C++ file",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "${fileDirname}/${fileBasenameNoExtension}",
+    "cwd": "${fileDirname}",
+    "MIMode": "lldb",
+    "preLaunchTask": "build-active",
+    "args": []
+  }]
+}

@@ -1,0 +1,26 @@
+/Users/bejtullahgadzimirzoev/codding
+/Users/bejtullahgadzimirzoev/codding/learn
+/Users/bejtullahgadzimirzoev/codding/python
+/Users/bejtullahgadzimirzoev/codding/python/Алгоритмы_питон
+/Users/bejtullahgadzimirzoev/codding/c#
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/ref
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/obj/Debug/net9.0/refint
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/bin
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/bin/Debug
+/Users/bejtullahgadzimirzoev/codding/c#/HelloWorld/bin/Debug/net9.0
+/Users/bejtullahgadzimirzoev/codding/cpp
+/Users/bejtullahgadzimirzoev/codding/cpp/Алгоритмы_и_структуры_данных
+/Users/bejtullahgadzimirzoev/codding/cpp/Алгоритмы_и_структуры_данных/asd.dSYM
+/Users/bejtullahgadzimirzoev/codding/cpp/Алгоритмы_и_структуры_данных/asd.dSYM/Contents
+/Users/bejtullahgadzimirzoev/codding/cpp/Алгоритмы_и_структуры_данных/asd.dSYM/Contents/Resources
+/Users/bejtullahgadzimirzoev/codding/cpp/Алгоритмы_и_структуры_данных/asd.dSYM/Contents/Resources/Relocations
+/Users/bejtullahgadzimirzoev/codding/cpp/Алгоритмы_и_структуры_данных/asd.dSYM/Contents/Resources/Relocations/aarch64
+/Users/bejtullahgadzimirzoev/codding/cpp/Алгоритмы_и_структуры_данных/asd.dSYM/Contents/Resources/DWARF
+/Users/bejtullahgadzimirzoev/codding/cpp/recruitment to an IT compani
+/Users/bejtullahgadzimirzoev/codding/cpp/поступление на вмк 1
+/Users/bejtullahgadzimirzoev/codding/cpp/проверка синтаксиса языка
+/Users/bejtullahgadzimirzoev/codding/JavaScript
