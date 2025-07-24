@@ -1,0 +1,15 @@
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/bin/Debug/net9.0/fast
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/bin/Debug/net9.0/fast.deps.json
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/bin/Debug/net9.0/fast.runtimeconfig.json
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/bin/Debug/net9.0/fast.dll
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/bin/Debug/net9.0/fast.pdb
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/fast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/fast.AssemblyInfoInputs.cache
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/fast.AssemblyInfo.cs
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/fast.csproj.CoreCompileInputs.cache
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/fast.sourcelink.json
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/fast.dll
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/refint/fast.dll
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/fast.pdb
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/fast.genruntimeconfig.cache
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/fast/obj/Debug/net9.0/ref/fast.dll

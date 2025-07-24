@@ -1,0 +1,15 @@
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/bin/Debug/net9.0/3_point
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/bin/Debug/net9.0/3_point.deps.json
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/bin/Debug/net9.0/3_point.runtimeconfig.json
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/bin/Debug/net9.0/3_point.dll
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/bin/Debug/net9.0/3_point.pdb
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/3_point.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/3_point.AssemblyInfoInputs.cache
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/3_point.AssemblyInfo.cs
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/3_point.csproj.CoreCompileInputs.cache
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/3_point.sourcelink.json
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/3_point.dll
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/refint/3_point.dll
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/3_point.pdb
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/3_point.genruntimeconfig.cache
+/Users/bejtullahgadzimirzoev/codding/c#/new_metanit/3_point/3_point/obj/Debug/net9.0/ref/3_point.dll

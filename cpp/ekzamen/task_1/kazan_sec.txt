@@ -1,0 +1,6 @@
+Ivanov_Ivan 50 2 1 60 12 75 10
+Petrov_Petr 46 2 1 32 13 80 6
+Sidorov_Sid 55 2 1 40 10 90 15
+Smirnov_Sergey 30 1 1 31 14 75 2
+Kuznetsov_Nikolay 28 2 1 35 16 80 3
+Fedorov_Fedor 47 2 1 30 14 72 7

@@ -1,0 +1,15 @@
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/task_manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/task_manager.AssemblyInfoInputs.cache
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/task_manager.AssemblyInfo.cs
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/task_manager.csproj.CoreCompileInputs.cache
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/task_manager.sourcelink.json
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/bin/Debug/net9.0/task_manager
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/bin/Debug/net9.0/task_manager.deps.json
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/bin/Debug/net9.0/task_manager.runtimeconfig.json
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/bin/Debug/net9.0/task_manager.dll
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/bin/Debug/net9.0/task_manager.pdb
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/task_manager.dll
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/refint/task_manager.dll
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/task_manager.pdb
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/task_manager.genruntimeconfig.cache
+/Users/bejtullahgadzimirzoev/codding/c#/task_manager/obj/Debug/net9.0/ref/task_manager.dll
